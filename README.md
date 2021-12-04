@@ -6,7 +6,7 @@
 </div>
 
 ## ⁉ What is this
-This is a recolored version of ["Divergence-Meter-Clock" Wallpaper by Fynce](https://steamcommunity.com/sharedfiles/filedetails/?id=1417646812).
+This is a recolored version of ["Divergence-Meter-Clock" Wallpaper by Fynce](https://steamcommunity.com/sharedfiles/filedetails/?id=1417646812).<br>
 There are two wallpapers:
 1. [Cold](https://abod1960.github.io/Divergence-Meter-Clock-Fork/divergence_meter_clock%20-%20Cold/index.html)
 
