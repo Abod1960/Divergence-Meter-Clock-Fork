@@ -22,7 +22,7 @@ Also, you can use it in Lively wallpaper, The instructions for this are also und
 
 ### ⚜ wallpaper engine
 
-1. open Wallpaper engine app and click on <kbd>open wallpaer</kbd> button
+1. open Wallpaper engine app and click on <kbd>open wallpaper</kbd> button
 2. select <kbd>open from URL</kbd>
 3. paste this "https://abod1960.github.io/Divergence-Meter-Clock-Fork/divergence_meter_clock%20-%20Cold/index.html"
 4. Enjoy!
@@ -36,7 +36,7 @@ Also, you can use it in Lively wallpaper, The instructions for this are also und
 
 ### 🔴 Note
 
-There are two wallpapers in the instruction i used the first wallpaper link, so if you want to use my another one, here are them both:
+There are two wallpapers in the instruction I used the first wallpaper link, so if you want to use my another one, here are them both:
 
 * Cold: https://abod1960.github.io/Divergence-Meter-Clock-Fork/divergence_meter_clock%20-%20Cold/index.html
 
